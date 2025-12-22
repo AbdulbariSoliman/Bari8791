@@ -4,7 +4,7 @@ I am an aspiring **Data Scientist** and **AI  & Machine Learning Enthusiast** wi
 
 ---
 
-### 🌱 My Learning Journey
+### 🌱 My Self Learning Journey
 
 **Advanced Modeling:** Focusing on boosting algorithms to achieve state-of-the-art predictive performance in tabular data.
 * **Deployment Basics:** Learning the fundamentals of **MLOps** for containerization and reproducibility.
