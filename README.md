@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Abdulbari Soliman!
 
-I am an aspiring **Data Scientist** and **AI  & Machine Learning Enthusiast** with a focus on leveraging data to drive decision-making in the **Business and Financial** sectors. I am passionately expanding my skills and always open to exploring new domains.
+I am an aspiring **AI & Machine Learning Enthusiast** with a focus on leveraging data to drive decision-making in the **Business and Financial** sectors. I am passionately expanding my skills and always open to exploring new domains.
 
 ---
 
