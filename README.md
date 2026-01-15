@@ -17,5 +17,5 @@ I am an aspiring **Data Scientist** and **AI  & Machine Learning Enthusiast** wi
 
 I'm actively seeking opportunities to collaborate on any data science or machine learning project. Let's build something impactful!
 
-* **📫 Reach Me:** [Solimanabdulbari@gmail.com](mailto:Solimanabdulbari@gmail.com)
+
 * **🔗 Connect:**  https://www.linkedin.com/in/abdulbari-soilman/
