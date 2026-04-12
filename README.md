@@ -5,10 +5,15 @@ I'm self-taught and driven by curiosity. Every project I build is a step toward 
 🌱 What I'm Currently Learning
 
 Boosting algorithms 
+
 MLOps fundamentals  containerisation and reproducible pipelines
+
 Model APIs serving trained models as real-time inference endpoints
+
 Experiment tracking using MLflow to log, compare, and version model runs
+
 Cloud basics — AWS / GCP / Azure for hosting and scaling ML services
+
 
 
 🤝 Let's Connect
