@@ -1,21 +1,16 @@
-## 🚀 Hi, I'm Abdulbari Soliman!
+Hi, I'm Abdulbari Soliman
+I'm an aspiring AI & Machine Learning enthusiast with a passion for turning data into decisions particularly in the business and financial sectors.
+I'm self-taught and driven by curiosity. Every project I build is a step toward becoming a well-rounded ML engineer who can take an idea from raw data all the way to a deployed, working product.
 
-I am an aspiring **AI & Machine Learning Enthusiast** with a focus on leveraging data to drive decision-making in the **Business and Financial** sectors. I am passionately expanding my skills and always open to exploring new domains.
+🌱 What I'm Currently Learning
 
----
-
-### 🌱 My Self Learning Journey
-
-**Advanced Modeling:** Focusing on boosting algorithms to achieve state-of-the-art predictive performance in tabular data.
-* **Deployment Basics:** Learning the fundamentals of **MLOps** for containerization and reproducibility.
-* **API Development:** Building **model inference APIs** to expose trained models as a real-time service for applications.
-* **Experiment Tracking & Versioning:** Exploring **MLflow** for logging and comparing model runs, ensuring experiments are reproducible and production models are versioned.
-* **Cloud Infrastructure:** Understanding the basics of cloud services (**AWS/GCP/Azure**) necessary for hosting and scaling deployed models.
-
----
-### 🤝 Let's Connect & Collaborate
-
-I'm actively seeking opportunities to collaborate on any data science or machine learning project. Let's build something impactful!
+Boosting algorithms 
+MLOps fundamentals  containerisation and reproducible pipelines
+Model APIs serving trained models as real-time inference endpoints
+Experiment tracking using MLflow to log, compare, and version model runs
+Cloud basics — AWS / GCP / Azure for hosting and scaling ML services
 
 
-* **🔗 Connect:**  https://www.linkedin.com/in/abdulbari-soilman/
+🤝 Let's Connect
+I'm always open to collaborating, learning from others, and exploring new domains in data science and machine learning. If you're working on something interesting, let's talk.
+🔗 Connect: https://www.linkedin.com/in/abdulbari-soilman/
