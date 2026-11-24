@@ -23,12 +23,12 @@ Hands-on experience with data centre hardware, networking fundamentals and SLA-d
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Bank Customer Churn AI Platform](https://github.com/AbdulbariSoliman/Bank-Customer-Churn-AI-Intelligence-Platform)** · [Live App](https://bank-customer-data-prep-j3mmdpxvqukgq88ppncxxx.streamlit.app/) | Predicts which bank customers will leave (Random Forest, **AUC 0.848**), explains each prediction with SHAP, segments the portfolio with K-Means, and simulates retention ROI in a live dashboard | Python · scikit-learn · SHAP · Streamlit |
-| **[Executive Sales Dashboard](https://github.com/AbdulbariSoliman/Executive-Sales-Dashboard-Power-BI)** | 6-page executive dashboard: star-schema model, 50+ DAX measures, what-if price analysis, field parameters, calculation groups, decomposition tree | Power BI · DAX · Power Query |
-| **Applied ML Pipeline** | End-to-end pipeline from data collection and cleaning to feature engineering, model training and evaluation | Python · pandas · scikit-learn |
-| **AI App Prototypes** | Small data apps and APIs, including LLM and AI-agent experiments | FastAPI · Streamlit · Amazon Bedrock |
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **🏦 Bank Customer Churn AI Platform** | Predicts which bank customers will leave (Random Forest, **AUC 0.848**), explains each prediction with SHAP, segments the portfolio with K-Means, and simulates retention ROI in a live dashboard | Python · scikit-learn · SHAP · Streamlit | [💻 GitHub](https://github.com/AbdulbariSoliman/Bank-Customer-Churn-AI-Intelligence-Platform) · [🚀 Live App](https://bank-customer-data-prep-j3mmdpxvqukgq88ppncxxx.streamlit.app/) |
+| **📊 Executive Sales Dashboard** | 6-page executive dashboard: star-schema model, 50+ DAX measures, what-if price analysis, field parameters, calculation groups, decomposition tree | Power BI · DAX · Power Query | [💻 GitHub](https://github.com/AbdulbariSoliman/Executive-Sales-Dashboard-Power-BI) · [📈 Power BI Report](https://app.powerbi.com/links/4JFN0GLHCX?ctid=5b84a64b-40c9-4879-b7dc-53e04c60e0a5&pbi_source=linkShare) |
+| **Applied ML Pipeline** | End-to-end pipeline from data collection and cleaning to feature engineering, model training and evaluation | Python · pandas · scikit-learn | — |
+| **AI App Prototypes** | Small data apps and APIs, including LLM and AI-agent experiments | FastAPI · Streamlit · Amazon Bedrock | — |
 
 ---
 
