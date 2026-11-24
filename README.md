@@ -4,7 +4,7 @@
 
 I build data products end to end: from collecting and cleaning raw data, to dashboards that drive decisions, to machine learning models served as working apps and APIs.
 
-My background is a little different from most: **7+ years** working close to data and the infrastructure behind it, I've labelled data that fed ML moderation systems, built pricing analytics for senior leadership, and worked inside hyperscale data centres. That mix means I understand both the model and what it takes to run it reliably.
+My background is a little different from most: **7+ years** working close to data and the infrastructure behind it. I've labelled data that fed ML moderation systems, built pricing analytics for senior leadership, and worked inside hyperscale data centres. That mix means I understand both the model and what it takes to run it reliably.
 
 ---
 
@@ -25,6 +25,7 @@ Hands-on experience with data centre hardware, networking fundamentals and SLA-d
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Bank Customer Churn AI Platform](https://github.com/AbdulbariSoliman/Bank-Customer-Churn-AI-Intelligence-Platform)** · [Live App](https://bank-customer-data-prep-j3mmdpxvqukgq88ppncxxx.streamlit.app/) | Predicts which bank customers will leave (Random Forest, **AUC 0.848**), explains each prediction with SHAP, segments the portfolio with K-Means, and simulates retention ROI in a live dashboard | Python · scikit-learn · SHAP · Streamlit |
 | **[Executive Sales Dashboard](https://github.com/AbdulbariSoliman/Executive-Sales-Dashboard-Power-BI)** | 6-page executive dashboard: star-schema model, 50+ DAX measures, what-if price analysis, field parameters, calculation groups, decomposition tree | Power BI · DAX · Power Query |
 | **Applied ML Pipeline** | End-to-end pipeline from data collection and cleaning to feature engineering, model training and evaluation | Python · pandas · scikit-learn |
 | **AI App Prototypes** | Small data apps and APIs, including LLM and AI-agent experiments | FastAPI · Streamlit · Amazon Bedrock |
@@ -37,7 +38,7 @@ Hands-on experience with data centre hardware, networking fundamentals and SLA-d
 `Python` `pandas` `SQL` `Power BI` `DAX` `Power Query` `Tableau` `Excel`
 
 **ML & AI**
-`scikit-learn` `Random Forest` `K-Means` `Feature Engineering` `LLMs` `AI Agents` `Amazon Bedrock`
+`scikit-learn` `Random Forest` `K-Means` `SHAP` `Feature Engineering` `LLMs` `AI Agents` `Amazon Bedrock`
 
 **Apps & Deployment**
 `FastAPI` `Streamlit` `Git`
